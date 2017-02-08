@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Cruze\.android\build-cache\f5279f2c6c9ecfb0388a37af9d6f022817d36f1a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Cruze\.android\build-cache\f8d48177661ca169aed5b9f703d491edc1c8189c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Cruze\.android\build-cache\88bb0c3b67de1bd190895839a70ebaa3058e46a4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Cruze\.android\build-cache\6561769a94773e4080457a44cd7cc9da9804ba29\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Cruze\.android\build-cache\3d327c9b4f4c29aa65ec6d2fbf06d8dd746d45ed\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Cruze\.android\build-cache\353178d723475571994e723264b79e8e5584a457\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\de4b1d580abf62a99cf3030d4cf14a64d5b63973\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\aae7dd76552871ace9e94c378e9073aa9449ecb8\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Cruze\.android\build-cache\c44569dce48a01780027c69ef69f26b4cb7e79aa\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Cruze\.android\build-cache\e28ae07a503172d103566477cf1fda5e05bd5b24\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Cruze\.android\build-cache\ebb2326fc9ab56b9668444cbf5dab3a0eb348655\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Cruze\.android\build-cache\5c0efb28644824b8612b332819f29ae942b0b423\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Cruze\.android\build-cache\09089b16d127886a70bf33e3cfe2b4407ef8ca7e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Cruze\.android\build-cache\b0ba9c811f057d735d6dc1e18e277a37525b11ef\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Cruze\.android\build-cache\bd823f859970cac483de225c205ee0cb96c294c8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Cruze\.android\build-cache\de9697ede3fbfa981a393c8959b630679e190651\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Cruze\.android\build-cache\29166a7e02320325948a2f52b920b7a48cfbf558\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\Cruze\.android\build-cache\2d6ec862d20dcc6a396c5963ce521baf134d62b5\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Cruze\.android\build-cache\26b1f36b1ab9e32d3ef71d482991ad95bc034497\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Cruze\.android\build-cache\0b82772322b63768725255348f1256febc1fb728\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Cruze\.android\build-cache\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Cruze\.android\build-cache\1ecc3b20bcf30b891511bc309ea1f173cbd65be1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Cruze\.android\build-cache\1e44a9a580c0b387bf7365635334a02ef01f78fb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Cruze\.android\build-cache\13e167b66c887c08cdd4e48e1897e76ad10fb411\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Cruze\.android\build-cache\fd133484c0a9fe78e509717e3b75a7a4a68e17ff\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Cruze\.android\build-cache\3cf144735ed9570401d78edeb7940786825c3714\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Cruze\.android\build-cache\4c09383794ae9884bce81fa1cbaa91fbc1a05385\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Cruze\.android\build-cache\88bb0c3b67de1bd190895839a70ebaa3058e46a4\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Cruze\.android\build-cache\88bb0c3b67de1bd190895839a70ebaa3058e46a4\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Cruze\.android\build-cache\09089b16d127886a70bf33e3cfe2b4407ef8ca7e\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:15:22-95
+permission#com.events.permission.MAPS_RECEIVE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:17:5-19:47
+	android:protectionLevel
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:18:9-58
+uses-permission#com.events.permission.MAPS_RECEIVE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:21:5-74
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:21:22-71
+uses-feature#0x00020000
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:23:5-25:35
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:24:9-41
+	android:required
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:25:9-32
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:27:5-83
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:27:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:28:30-85
+application
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:30:5-90:19
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Cruze\.android\build-cache\f8d48177661ca169aed5b9f703d491edc1c8189c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Cruze\.android\build-cache\88bb0c3b67de1bd190895839a70ebaa3058e46a4\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Cruze\.android\build-cache\6561769a94773e4080457a44cd7cc9da9804ba29\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Cruze\.android\build-cache\3d327c9b4f4c29aa65ec6d2fbf06d8dd746d45ed\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Cruze\.android\build-cache\353178d723475571994e723264b79e8e5584a457\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\de4b1d580abf62a99cf3030d4cf14a64d5b63973\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Cruze\.android\build-cache\aae7dd76552871ace9e94c378e9073aa9449ecb8\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Cruze\.android\build-cache\c44569dce48a01780027c69ef69f26b4cb7e79aa\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Cruze\.android\build-cache\e28ae07a503172d103566477cf1fda5e05bd5b24\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Cruze\.android\build-cache\ebb2326fc9ab56b9668444cbf5dab3a0eb348655\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Cruze\.android\build-cache\5c0efb28644824b8612b332819f29ae942b0b423\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Cruze\.android\build-cache\09089b16d127886a70bf33e3cfe2b4407ef8ca7e\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Cruze\.android\build-cache\b0ba9c811f057d735d6dc1e18e277a37525b11ef\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Cruze\.android\build-cache\bd823f859970cac483de225c205ee0cb96c294c8\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Cruze\.android\build-cache\de9697ede3fbfa981a393c8959b630679e190651\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Cruze\.android\build-cache\29166a7e02320325948a2f52b920b7a48cfbf558\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Cruze\.android\build-cache\26b1f36b1ab9e32d3ef71d482991ad95bc034497\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Cruze\.android\build-cache\0b82772322b63768725255348f1256febc1fb728\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Cruze\.android\build-cache\1ecc3b20bcf30b891511bc309ea1f173cbd65be1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Cruze\.android\build-cache\1e44a9a580c0b387bf7365635334a02ef01f78fb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Cruze\.android\build-cache\13e167b66c887c08cdd4e48e1897e76ad10fb411\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Cruze\.android\build-cache\fd133484c0a9fe78e509717e3b75a7a4a68e17ff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Cruze\.android\build-cache\3cf144735ed9570401d78edeb7940786825c3714\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Cruze\.android\build-cache\4c09383794ae9884bce81fa1cbaa91fbc1a05385\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:32:9-45
+	android:theme
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:34:9-40
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:35:9-37:71
+	android:value
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:37:13-68
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:36:13-62
+meta-data#com.google.android.gms.version
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:38:9-40:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:40:13-66
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:39:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:41:9-42:54
+	android:value
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:41:20-65
+activity#com.events.SplashScreen
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:44:9-55:20
+	android:screenOrientation
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:46:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:49:13-54
+	android:theme
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:48:13-77
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:45:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.events.MainActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:56:9-60:70
+	android:screenOrientation
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:58:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:60:13-67
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:57:13-41
+activity#com.events.MapViewActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:61:9-64:70
+	android:screenOrientation
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:63:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:64:13-67
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:62:13-44
+activity#com.events.EventDetailActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:65:9-68:70
+	android:screenOrientation
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:67:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:68:13-67
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:66:13-48
+activity#com.events.CategoryActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:69:9-71:62
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:71:13-59
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:70:13-45
+activity#com.events.LoginActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:72:9-74:60
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:74:13-57
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:73:13-42
+activity#com.events.RegisterActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:75:9-78:63
+	android:label
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:78:13-60
+	android:configChanges
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:77:13-96
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:76:13-45
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:80:9-89:20
+	android:exported
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:82:13-36
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:81:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:83:13-88:29
+action#android.intent.action.VIEW
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:84:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:85:17-76
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:85:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:86:17-78
+	android:name
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:86:27-75
+data
+ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:87:17-75
+	android:scheme
+		ADDED from C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\src\main\AndroidManifest.xml:87:23-72
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\AndroidManifest.xml:42:11-82

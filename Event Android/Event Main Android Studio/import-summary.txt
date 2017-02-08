@@ -1,0 +1,238 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+D:\Android\Work Docs\Template Apps\Android Studio\Events
+               -             -            -             
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\com\
+* doc\com\events\
+* doc\com\events\BuildConfig.html
+* doc\com\events\EventDetailActivity.html
+* doc\com\events\MainActivity.html
+* doc\com\events\Manifest.html
+* doc\com\events\Manifest.permission.html
+* doc\com\events\MapViewActivity.html
+* doc\com\events\R.attr.html
+* doc\com\events\R.color.html
+* doc\com\events\R.dimen.html
+* doc\com\events\R.drawable.html
+* doc\com\events\R.html
+* doc\com\events\R.id.html
+* doc\com\events\R.integer.html
+* doc\com\events\R.layout.html
+* doc\com\events\R.menu.html
+* doc\com\events\R.string.html
+* doc\com\events\R.style.html
+* doc\com\events\R.styleable.html
+* doc\com\events\SplashScreen.html
+* doc\com\events\calendar\
+* doc\com\events\calendar\CalendarAdapter.html
+* doc\com\events\calendar\CalendarView.EventAdapter.html
+* doc\com\events\calendar\CalendarView.html
+* doc\com\events\calendar\Utility.html
+* doc\com\events\calendar\class-use\
+* doc\com\events\calendar\class-use\CalendarAdapter.html
+* doc\com\events\calendar\class-use\CalendarView.EventAdapter.html
+* doc\com\events\calendar\class-use\CalendarView.html
+* doc\com\events\calendar\class-use\Utility.html
+* doc\com\events\calendar\package-frame.html
+* doc\com\events\calendar\package-summary.html
+* doc\com\events\calendar\package-tree.html
+* doc\com\events\calendar\package-use.html
+* doc\com\events\class-use\
+* doc\com\events\class-use\BuildConfig.html
+* doc\com\events\class-use\EventDetailActivity.html
+* doc\com\events\class-use\MainActivity.html
+* doc\com\events\class-use\Manifest.html
+* doc\com\events\class-use\Manifest.permission.html
+* doc\com\events\class-use\MapViewActivity.html
+* doc\com\events\class-use\R.attr.html
+* doc\com\events\class-use\R.color.html
+* doc\com\events\class-use\R.dimen.html
+* doc\com\events\class-use\R.drawable.html
+* doc\com\events\class-use\R.html
+* doc\com\events\class-use\R.id.html
+* doc\com\events\class-use\R.integer.html
+* doc\com\events\class-use\R.layout.html
+* doc\com\events\class-use\R.menu.html
+* doc\com\events\class-use\R.string.html
+* doc\com\events\class-use\R.style.html
+* doc\com\events\class-use\R.styleable.html
+* doc\com\events\class-use\SplashScreen.html
+* doc\com\events\custom\
+* doc\com\events\custom\CustomActivity.html
+* doc\com\events\custom\CustomFragment.html
+* doc\com\events\custom\class-use\
+* doc\com\events\custom\class-use\CustomActivity.html
+* doc\com\events\custom\class-use\CustomFragment.html
+* doc\com\events\custom\package-frame.html
+* doc\com\events\custom\package-summary.html
+* doc\com\events\custom\package-tree.html
+* doc\com\events\custom\package-use.html
+* doc\com\events\model\
+* doc\com\events\model\Data.html
+* doc\com\events\model\Event.html
+* doc\com\events\model\Feed.html
+* doc\com\events\model\class-use\
+* doc\com\events\model\class-use\Data.html
+* doc\com\events\model\class-use\Event.html
+* doc\com\events\model\class-use\Feed.html
+* doc\com\events\model\package-frame.html
+* doc\com\events\model\package-summary.html
+* doc\com\events\model\package-tree.html
+* doc\com\events\model\package-use.html
+* doc\com\events\package-frame.html
+* doc\com\events\package-summary.html
+* doc\com\events\package-tree.html
+* doc\com\events\package-use.html
+* doc\com\events\ui\
+* doc\com\events\ui\About.html
+* doc\com\events\ui\EventDetail.html
+* doc\com\events\ui\FeedList.ProgramAdapter.html
+* doc\com\events\ui\FeedList.html
+* doc\com\events\ui\LeftNavAdapter.html
+* doc\com\events\ui\MapViewer.html
+* doc\com\events\ui\More.html
+* doc\com\events\ui\MyTickets.TicketAdapter.html
+* doc\com\events\ui\MyTickets.html
+* doc\com\events\ui\Programs.ProgramAdapter.html
+* doc\com\events\ui\Programs.html
+* doc\com\events\ui\class-use\
+* doc\com\events\ui\class-use\About.html
+* doc\com\events\ui\class-use\EventDetail.html
+* doc\com\events\ui\class-use\FeedList.ProgramAdapter.html
+* doc\com\events\ui\class-use\FeedList.html
+* doc\com\events\ui\class-use\LeftNavAdapter.html
+* doc\com\events\ui\class-use\MapViewer.html
+* doc\com\events\ui\class-use\More.html
+* doc\com\events\ui\class-use\MyTickets.TicketAdapter.html
+* doc\com\events\ui\class-use\MyTickets.html
+* doc\com\events\ui\class-use\Programs.ProgramAdapter.html
+* doc\com\events\ui\class-use\Programs.html
+* doc\com\events\ui\package-frame.html
+* doc\com\events\ui\package-summary.html
+* doc\com\events\ui\package-tree.html
+* doc\com\events\ui\package-use.html
+* doc\com\events\utils\
+* doc\com\events\utils\TouchEffect.html
+* doc\com\events\utils\class-use\
+* doc\com\events\utils\class-use\TouchEffect.html
+* doc\com\events\utils\package-frame.html
+* doc\com\events\utils\package-summary.html
+* doc\com\events\utils\package-tree.html
+* doc\com\events\utils\package-use.html
+* doc\com\google\
+* doc\com\google\android\
+* doc\com\google\android\gms\
+* doc\com\google\android\gms\R.attr.html
+* doc\com\google\android\gms\R.color.html
+* doc\com\google\android\gms\R.drawable.html
+* doc\com\google\android\gms\R.html
+* doc\com\google\android\gms\R.id.html
+* doc\com\google\android\gms\R.integer.html
+* doc\com\google\android\gms\R.string.html
+* doc\com\google\android\gms\R.styleable.html
+* doc\com\google\android\gms\class-use\
+* doc\com\google\android\gms\class-use\R.attr.html
+* doc\com\google\android\gms\class-use\R.color.html
+* doc\com\google\android\gms\class-use\R.drawable.html
+* doc\com\google\android\gms\class-use\R.html
+* doc\com\google\android\gms\class-use\R.id.html
+* doc\com\google\android\gms\class-use\R.integer.html
+* doc\com\google\android\gms\class-use\R.string.html
+* doc\com\google\android\gms\class-use\R.styleable.html
+* doc\com\google\android\gms\package-frame.html
+* doc\com\google\android\gms\package-summary.html
+* doc\com\google\android\gms\package-tree.html
+* doc\com\google\android\gms\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-19.html
+* doc\index-files\index-2.html
+* doc\index-files\index-20.html
+* doc\index-files\index-21.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\background.gif
+* doc\resources\tab.gif
+* doc\resources\titlebar.gif
+* doc\resources\titlebar_end.gif
+* doc\stylesheet.css
+* javadoc.xml
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

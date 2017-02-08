@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_b76e49a338efb9f5239638a3ddaba3e6c6143288\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\de4b1d580abf62a99cf3030d4cf14a64d5b63973\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92f3121df6e3c7a1be65aff973d9e664d219d56c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\aae7dd76552871ace9e94c378e9073aa9449ecb8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52986cc1a60fabd02bf62fe809ac25d53187897e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\2f06447dd972bf63d6ad5b5f2418598837e20d8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e937d8878e5493aa9c6d6bedf124416559eaa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\0b82772322b63768725255348f1256febc1fb728\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d510e26de693e51e0d850c80549d00c027d047e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\0625d30e0bf16b25f482f0f02079f26e3e522007\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d12d898f54e4ec4713ee5f024bda93a70b662378\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\fd133484c0a9fe78e509717e3b75a7a4a68e17ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fcfdc21ad2339aaafd2f391d0c562903115515a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_bd1d601920dc40e8883edf9b87d94f3d1121d554\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_a25003eacf3849cd5d1323d514d2d72774a4b355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\f64516a3f99e8889aaf25cab10e66cd34848e298\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f616a43c4ca7a41f774598692bb3d5cbcb2af52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\de9697ede3fbfa981a393c8959b630679e190651\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88865f4dd6fae6e6ece0697c9e9114ccf45ea2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\6591e9e47346c06b1d489b4fc18cba89d4851a76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_681e0d3ad38e44079861d531d154179ae1a90fec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\322db7059744bf1c091c9637141d7ec7467a8ed7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14e7bb272f333f21e31e223b47cb4838f141eb07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_e449c59d05f02e1e99d9eac408b0afc7421c1fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_713360d699578da4290eb18ac50cbcbab6b4f439\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\1ecc3b20bcf30b891511bc309ea1f173cbd65be1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_306a26c7af7f98cd74845ee1fc16e49e91ef4dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\e28ae07a503172d103566477cf1fda5e05bd5b24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eacba8bb2334953ef58729c1642476f8ce76c8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\3cf144735ed9570401d78edeb7940786825c3714\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_977ebd9d4ae4a034761f0754d39a2a0a8e026196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\88bb0c3b67de1bd190895839a70ebaa3058e46a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec97dd57002430ecf9e442500a42b2cea9371907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\ebb2326fc9ab56b9668444cbf5dab3a0eb348655\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a57c016b3d3e36c644d026bba850884f9c1fc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\29166a7e02320325948a2f52b920b7a48cfbf558\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30275fd03683171289a6b0c92b6bc545cb26e358\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\4c09383794ae9884bce81fa1cbaa91fbc1a05385\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87e7edfef193045e9bdebdb02c1c6b2f8288e9fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\b0ba9c811f057d735d6dc1e18e277a37525b11ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_278b182338a7fb9b039a860088f39c5856074acb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\c44569dce48a01780027c69ef69f26b4cb7e79aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_687da44e9fcf734a397926b052dc7fc4f8b77006\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fa39435507bb4e47f726658698e7ba27e54e508">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e59158f155a9153fe8c35f251fcd9d5aa3cc5f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\09089b16d127886a70bf33e3cfe2b4407ef8ca7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6d91daa77a86dd056be8827c908e808d4af28f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7fadb286755322aaaf03484e62370b1a2c5e1a75">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7e3e4252b81c47c3ebd3199bc7876b7a8423c16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_439f9d7f8b8d5e87d933f99ac847fed59c1ddcea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_449e41ad3e6815881aa19e0adcb9153cb7eb2925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_7866fc363d49c8e0188c30064dae752912bb4c9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_6b522c662fe82c50eb3b1b7215b2623f4dc4759f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\13e167b66c887c08cdd4e48e1897e76ad10fb411\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33da3c88086e48dfc32637fd1c821f5aef42f4c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\232f854f86f3ebe0c9daa9295df81d96a3ce8d47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_257047c9632fc25babd2aa3d5b6b3f80ac17c0d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\7ab6c6d484ef8097ba82d8c8d1ab47e6eb41f9ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e035ee42990f7107faad274660bd6196804554e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\2d6ec862d20dcc6a396c5963ce521baf134d62b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_868ea8d417e201351f719355a71477267efe9e54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\6561769a94773e4080457a44cd7cc9da9804ba29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fc61040f1a1aae108ff59c8268b2f341239c0bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\1e44a9a580c0b387bf7365635334a02ef01f78fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8de770d2832d50f810478c185c17612b5a1c3bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\bd823f859970cac483de225c205ee0cb96c294c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca7366f37a7a12504655f50a0ec99da6e0915977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\26b1f36b1ab9e32d3ef71d482991ad95bc034497\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cce010c367de314c5a3eaeaa6c3c5a98a26dd7f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\6bfaf94d1493654bd0811fc189ecb08b286b0c9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5df875723cd35a82e00711ead9c3ec16eca4d491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\5c0efb28644824b8612b332819f29ae942b0b423\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_800225025963274fb5ae39ab78bc4fb9e0ca04d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\0b224c699a9f76a028fee41a399957dc9eacfe84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d38cb7b7d7f72f25b473faaf03fa815a1f7c6f4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\28337c8ea614c86b2aba64abcb1aac5f808e995d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6316fbda5351f0b3a18ed58f09319d87d34430d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cruze\.android\build-cache\353178d723475571994e723264b79e8e5584a457\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Project\EventAndroid\Event Android\Event Main Android Studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50664a07837cd436e92ed101cc3c206b202f9e44\classes.dex" />
+    </item>
+
+</items>

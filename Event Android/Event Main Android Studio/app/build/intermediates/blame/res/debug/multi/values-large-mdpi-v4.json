@@ -1,0 +1,349 @@
+[
+    {
+        "outputFile": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-mdpi-v4\\values-large-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 667,
+                        "endColumn": 36,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 39,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 131,
+                        "endColumn": 36,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 41,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 283,
+                        "endColumn": 38,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 39,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 169,
+                        "endColumn": 36,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 37,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 37,
+                        "endOffset": 52
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endColumn": 39,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 207,
+                        "endColumn": 36,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 39,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 245,
+                        "endColumn": 36,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 37,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 37,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 38,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 94,
+                        "endColumn": 35,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 39,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 363,
+                        "endColumn": 36,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 39,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 401,
+                        "endColumn": 36,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 39,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 439,
+                        "endColumn": 36,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 39,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 477,
+                        "endColumn": 36,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 39,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 515,
+                        "endColumn": 36,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 39,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 553,
+                        "endColumn": 36,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 39,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 591,
+                        "endColumn": 36,
+                        "endOffset": 626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 39,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 629,
+                        "endColumn": 36,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 38,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\values-large-mdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 326,
+                        "endColumn": 35,
+                        "endOffset": 360
+                    }
+                }
+            }
+        ]
+    }
+]

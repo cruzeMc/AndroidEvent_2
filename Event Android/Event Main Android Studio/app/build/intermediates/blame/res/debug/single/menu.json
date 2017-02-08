@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map.xml",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share_fav.xml",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\menu\\share_fav.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\comment.xml",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\menu\\comment.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add.xml",
+        "source": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\src\\main\\res\\menu\\add.xml"
+    }
+]

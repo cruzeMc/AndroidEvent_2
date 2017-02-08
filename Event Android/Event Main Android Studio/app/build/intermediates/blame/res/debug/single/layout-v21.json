@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\28337c8ea614c86b2aba64abcb1aac5f808e995d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Project\\EventAndroid\\Event Android\\Event Main Android Studio\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Cruze\\.android\\build-cache\\5c0efb28644824b8612b332819f29ae942b0b423\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]
